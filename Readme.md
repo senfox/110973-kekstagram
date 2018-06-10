@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Nadezhda Novikova](https://up.htmlacademy.ru/javascript/14/user/110973).
-* Наставник: `Неизвестно`.
+* Наставник: [Константин Мамаев] (https://htmlacademy.ru/profile/meison).
 
 ---
 
